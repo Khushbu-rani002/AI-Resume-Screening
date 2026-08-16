@@ -1,8 +1,14 @@
 import re
+import nltk
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 
-stop_words = set(stopwords.words('english'))
+# Download required NLTK resources
+nltk.download("stopwords")
+nltk.download("punkt")
+
+stop_words = set(stopwords.words("english"))
+
 
 def clean_resume(text):
 
