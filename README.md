@@ -435,7 +435,7 @@ The system helps recruiters quickly understand:
 
 ## 👩‍💻 Author
 
-**Khushbu**
+**Khushbu Rani**
 
 Student | AI/ML & Software Development
 
